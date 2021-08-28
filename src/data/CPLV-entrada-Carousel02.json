@@ -1,0 +1,69 @@
+
+{
+    "videos": [
+      {
+        "id": "00",
+        "cliente": "Maidana Prop",
+        "nombreVideo": "salida01",
+        "sponsor": "oro",
+        "fecha": "25/02/21",
+        "url": "./assets/img/Salids Maidana Septiembre 1.mp4"
+      },
+      {
+        "id": "05",
+        "cliente": "CongeladosEscobar",
+        "nombreVideo": "salida01",
+        "sponsor": "plata",
+        "fecha": "8/02/21",
+        "url": "./assets/img/Congelados Escobar spot 01.mp4"
+      },
+      {
+        "id": "00",
+        "cliente": "Maidana Prop",
+        "nombreVideo": "salida02",
+        "sponsor": "oro",
+        "fecha": "25/02/21",
+        "url": "./assets/img/Salids Maidana Septiembre 2.mp4"
+      },
+      {
+        "id": "06",
+        "cliente": "LookStyle",
+        "nombreVideo": "salida01 (unico video)",
+        "sponsor": "bronce",
+        "fecha": "11/06/21",
+        "url": "./assets/img/anuncieAqui.mp4"
+      },
+      {
+        "id": "00",
+        "cliente": "Maidana Prop",
+        "nombreVideo": "salida01",
+        "sponsor": "oro",
+        "fecha": "25/02/21",
+        "url": "./assets/img/Salids Maidana Septiembre 1.mp4"
+      },
+      {
+        "id": "05",
+        "cliente": "CongeladosEscobar",
+        "nombreVideo": "salida02",
+        "sponsor": "plata",
+        "fecha": "8/02/21",
+        "url": "./assets/img/Congelados Escobar spot 02.mp4"
+      },
+      {
+        "id": "00",
+        "cliente": "Maidana Prop",
+        "nombreVideo": "salida03",
+        "sponsor": "oro",
+        "fecha": "25/02/21",
+        "url": "./assets/img/Salids Maidana Septiembre 3.mp4"
+      },
+      {
+        "id": "06",
+        "cliente": "LookStyle",
+        "nombreVideo": "salida01 (unico video)",
+        "sponsor": "bronce",
+        "fecha": "11/06/21",
+        "url": "./assets/img/anuncieAqui.mp4"
+      }
+    ]
+  }

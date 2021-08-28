@@ -1,0 +1,68 @@
+
+{
+    "videos": [
+      {
+        "id": "00",
+        "cliente": "CPLM",
+        "nombreVideo": "Placa 01",
+        "fecha": "12/08/21",
+        "url": "./assets/img/CPLV-12-8-21-placa-01_1.mp4"
+      },
+      {
+        "id": "01",
+        "cliente": "CPLM",
+        "nombreVideo": "Placa 02",
+        "fecha": "12/08/21",
+        "url": "./assets/img/CPLV-12-8-21-placa-02_1.mp4"
+      },
+      {
+        "id": "02",
+        "cliente": "CPLM",
+        "nombreVideo": "Placa 03",
+        "fecha": "12/08/21",
+        "url": "./assets/img/CPLV-12-8-21-placa-03_1.mp4"
+      },
+      {
+        "id": "03",
+        "cliente": "CPLM",
+        "nombreVideo": "Placa 04",
+        "fecha": "12/08/21",
+        "url": "./assets/img/CPLV-12-8-21-placa-04_1.mp4"
+      },
+      {
+        "id": "04",
+        "cliente": "CPLM",
+        "nombreVideo": "Placa 05",
+        "fecha": "12/08/21",
+        "url": "./assets/img/CPLV-12-8-21-placa-05_1.mp4"
+      },
+      {
+        "id": "05",
+        "cliente": "CPLM",
+        "nombreVideo": "Placa 06",
+        "fecha": "12/08/21",
+        "url": "./assets/img/CPLV-12-8-21-placa-06_1.mp4"
+      },
+      {
+        "id": "06",
+        "cliente": "CPLM",
+        "nombreVideo": "Placa 07",
+        "fecha": "12/08/21",
+        "url": "./assets/img/CPLV-12-8-21-placa-07_1.mp4"
+      },
+      {
+        "id": "08",
+        "cliente": "CPLM",
+        "nombreVideo": "Placa 09",
+        "fecha": "12/08/21",
+        "url": "./assets/img/CPLV-12-8-21-placa-09_1.mp4"
+      },
+      {
+        "id": "09",
+        "cliente": "CPLM",
+        "nombreVideo": "Placa 10",
+        "fecha": "12/08/21",
+        "url": "./assets/img/CPLV-12-8-21-placa-10_1.mp4"
+      }
+    ]
+}
